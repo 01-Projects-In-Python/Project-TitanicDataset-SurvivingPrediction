@@ -8,4 +8,4 @@ Objectives:
 2. Build the Logistic Regression model using the hyperparameters specified and evaluate the model's performance.
 3. Compare the changes in the classification accuracy between the two Logistic Regression models.
 
-4. [Titanic Data Set from Kaggle](https://www.kaggle.com/c/titanic)
+[Titanic Data Set from Kaggle](https://www.kaggle.com/c/titanic)
